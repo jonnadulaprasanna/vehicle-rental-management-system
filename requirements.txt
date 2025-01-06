@@ -1,6 +1,6 @@
 streamlit
 pymongo
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
 plotly.express

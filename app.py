@@ -681,7 +681,7 @@ def register_user(username, password, role, email=None):
 
 # Login page
 def login():
-    set_background_image("/Users/harshavardhangovada/Library/Mobile Documents/com~apple~CloudDocs/vehicle_rental_system/background.jpg")
+    set_background_image("./background.jpg")
     st.title("Vehicle Rental Management System - Login")
 
     # Tabs for Login and Register
